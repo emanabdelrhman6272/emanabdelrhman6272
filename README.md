@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Eman Abdelrhman 
 
-<!--
-**emanabdelrhman6272/emanabdelrhman6272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer and Artificial Intelligence Graduate** specializing in **AI**, and a passionate **Frontend Developer** (ITI Graduate). I love bridging complex AI models with high-performance, user-centric web applications.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Technologies
+- **Frontend:** React, TypeScript, Tailwind CSS, JavaScript, HTML5, CSS3, Webpack.
+- **AI & Data Science:** Python, Machine Learning, Deep Learning, Computer Vision, NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Advanced Self-Driving Car:** Integrated with V2X technology, embedded systems, and computer vision.
+- **Topamine E-Learning Platform:** A full-stack project built with React, Firebase, and payment integration.
+
+📫 **How to reach me:** emansoliman8427@gmail.com
